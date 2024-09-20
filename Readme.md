@@ -18,4 +18,4 @@ aca poner los comandos
 - [https://start.spring.io/](https://start.spring.io/)
 - [video de youtube para seguir](https://www.youtube.com/watch?v=JD_ZL3Bnaog)
 - [Spring curd complete repositorio](https://github.com/DanielEspanadero/spring-crud-complete)
-- 
+- [Visual code extensiones](https://code.visualstudio.com/docs/java/java-spring-boot)
